@@ -17,7 +17,7 @@ Zoolztheaz :
 ## UPDATE SCRIPT
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
 ```
-wget -q https://raw.githubusercontent.com/zoolztheaz/autoscript-vip/main/update.sh && chmod +x update.sh && ./update.sh
+wget -q https://raw.githubusercontent.com/zoolztheaz/autoscript-vvip/main/update.sh && chmod +x update.sh && ./update.sh
 ```
 
 ## TESTED ON OS
